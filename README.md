@@ -32,6 +32,7 @@
 ![Static Badge](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs)
 ![Static Badge](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)
 ![Static Badge](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs)
+![Static Badge](https://img.shields.io/badge/react%20and%20react%20native%20expo-black?style=for-the-badge&logo=react)
 ![Static Badge](https://img.shields.io/badge/svelte-black?style=for-the-badge&logo=svelte)
 ![Static Badge](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)
 ![Static Badge](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)
@@ -53,7 +54,7 @@
                 ![Static Badge](https://img.shields.io/badge/pytorch-black?style=for-the-badge&logo=pytorch)
   ![Static Badge](https://img.shields.io/badge/arduino-black?style=for-the-badge&logo=arduino)
             </p>
-
+            <p>I'm also fascinated by <strong>hardware</strong>, especially <em>embedded systems</em>. I'm always eager to learn more about <strong>microcontrollers</strong>, <strong>firmware development</strong>, and the intersection of <strong>hardware and software</strong>.</p>
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=henoknegatu&theme=tokyonight&show_icons=true&locale=en&layout=compact"
         alt="henoknegatu" /></p>
